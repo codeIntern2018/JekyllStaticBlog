@@ -1,1 +1,1 @@
-"# JekyllStaticBlog" 
+# JekyllStaticBlog
