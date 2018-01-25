@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello Minimal!"
-date:   2016-03-17 23:28:03 -0300
+title:  "Primeio Post"
+date:   2018-01-25 17:46:41 -0300
 categories: start blog
 ---
 
@@ -15,7 +15,7 @@ categories: start blog
 
 ##### Heading 5
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.
+Texto Comun
 
 - palavra
 - palavra
